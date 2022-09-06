@@ -1,2 +1,2 @@
 # smartcontracts
-Smart contracts written in Solidity Language 
+Welcome to the smart contracts repository
