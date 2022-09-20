@@ -9,14 +9,14 @@ Main Faucet: https://faucets.chain.link
 Here you will find all the smart contracts I have written that includes some basic solidity concepts and tokens creation
 
 **Tools and Tech Used:**
-Solidity 
-EVM
-Remix IDE
-Truffle 
-ERC20 
-ERC721 on Opensea
-OpenZeppelin
-Alchemy
+Solidity, 
+EVM,
+Remix IDE,
+Truffle, 
+ERC20, 
+ERC721 on Opensea,
+OpenZeppelin,
+Alchemy,
 ChainLink Oracles
 
 1) Solidity Basic Smart Contract 
