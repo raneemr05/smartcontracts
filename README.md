@@ -20,6 +20,7 @@ Alchemy,
 ChainLink Oracles
 
 1) Solidity Basic Smart Contract 
-2) Structures, Mapping, Modifier, Constructor and require method
-3) ERC20 Token creation on Remix IDE deployed on Goreli Test Network
-4) Bank Account Creation Smart Contract
+2) Fixed Length and Dynamic Arrays 
+3) Libray smart contract uses Structures, Mapping, Modifier, Constructor and require method
+4) ERC20 Token creation on Remix IDE deployed on Goreli Test Network
+5) Bank Account Transactions Smart Contract
